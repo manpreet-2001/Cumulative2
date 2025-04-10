@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSHARP\\Cumulative2\\Cumulative2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\controllers\\studentpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\controllers\\studentpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\controllers\\courseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\controllers\\coursepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\controllers\\coursepagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\studentpage\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\studentpage\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\teacherpage\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\teacherpage\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\models\\teacherwithcoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\models\\teacherwithcoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\teacherpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\teacherpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\teacherpage\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\teacherpage\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\teacherpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\teacherpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\studentpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\studentpage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\coursepage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\coursepage\\deleteconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\coursepage\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\coursepage\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\studentpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\coursepage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\coursepage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\coursepage\\new.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\coursepage\\new.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\studentpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\studentpage\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\coursepage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\coursepage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\studentpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\studentpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\studentpage\\new.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\studentpage\\new.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|d:\\csharp\\cumulative2\\cumulative2\\cumulative1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{475B5113-F7E6-4BFB-A5D8-1BD1A1BFB308}|Cumulative1\\Cumulative2.csproj|solutionrelative:cumulative1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Models\\Student.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Student.cs",
+              "RelativeToolTip": "Cumulative1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:23:05.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseAPIController.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\CourseAPIController.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Controllers\\CourseAPIController.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\CourseAPIController.cs",
+              "RelativeToolTip": "Cumulative1\\Controllers\\CourseAPIController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:25:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Models\\Course.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Course.cs",
+              "RelativeToolTip": "Cumulative1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:23:44.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursePageController.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\CoursePageController.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Controllers\\CoursePageController.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\CoursePageController.cs",
+              "RelativeToolTip": "Cumulative1\\Controllers\\CoursePageController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:24:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "Cumulative1\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAAMcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:21:27.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Schooldbcontext.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Schooldbcontext.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Models\\Schooldbcontext.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Schooldbcontext.cs",
+              "RelativeToolTip": "Cumulative1\\Models\\Schooldbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:31:32.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentPageController.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\StudentPageController.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Controllers\\StudentPageController.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\StudentPageController.cs",
+              "RelativeToolTip": "Cumulative1\\Controllers\\StudentPageController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:24:26.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\New.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\StudentPage\\New.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\New.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\StudentPage\\New.cshtml",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:03:48.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\New.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\TeacherPage\\New.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\New.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\TeacherPage\\New.cshtml",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:42:51.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\TeacherPage\\List.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\List.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\TeacherPage\\List.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv6EAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:29:14.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T02:29:26.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Controllers\\TeacherPageController.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "Cumulative1\\Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwFoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:31:03.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Program.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Program.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Program.cs",
+              "RelativeToolTip": "Cumulative1\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:17:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Controllers\\TeacherAPIController.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Controllers\\TeacherAPIController.cs",
+              "RelativeToolTip": "Cumulative1\\Controllers\\TeacherAPIController.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAAEBAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:30:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\TeacherPage\\DeleteConfirm.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\TeacherPage\\DeleteConfirm.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:56:06.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherWithCoursesViewModel.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\TeacherWithCoursesViewModel.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Models\\TeacherWithCoursesViewModel.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\TeacherWithCoursesViewModel.cs",
+              "RelativeToolTip": "Cumulative1\\Models\\TeacherWithCoursesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:41:05.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Models\\Teacher.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\Teacher.cs",
+              "RelativeToolTip": "Cumulative1\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:37:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\TeacherPage\\Show.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\TeacherPage\\Show.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:29:30.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\Error.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\TeacherPage\\Error.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\Error.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\TeacherPage\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T02:36:39.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\TeacherPage\\List.cshtml.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\TeacherPage\\List.cshtml.cs",
+              "RelativeToolTip": "Cumulative1\\Views\\TeacherPage\\List.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:06:49.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\StudentPage\\DeleteConfirm.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\StudentPage\\DeleteConfirm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:06:48.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteConfirm.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\DeleteConfirm.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\CoursePage\\DeleteConfirm.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\DeleteConfirm.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\CoursePage\\DeleteConfirm.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:14:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\New.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\CoursePage\\New.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\New.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\CoursePage\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T20:09:27.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\StudentPage\\List.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\List.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\StudentPage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:35:17.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\CoursePage\\Show.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\Show.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\CoursePage\\Show.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAiwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:39:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "New.cshtml.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\New.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\CoursePage\\New.cshtml.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\New.cshtml.cs",
+              "RelativeToolTip": "Cumulative1\\Views\\CoursePage\\New.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:30:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\StudentPage\\List.cshtml.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\List.cshtml.cs",
+              "RelativeToolTip": "Cumulative1\\Views\\StudentPage\\List.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:20:05.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\CoursePage\\List.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\CoursePage\\List.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\CoursePage\\List.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBJwFcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:39:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\StudentPage\\Show.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\Show.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\StudentPage\\Show.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAIBJwFgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:35:32.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "New.cshtml.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\New.cshtml.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\StudentPage\\New.cshtml.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\StudentPage\\New.cshtml.cs",
+              "RelativeToolTip": "Cumulative1\\Views\\StudentPage\\New.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:04:04.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Cumulative1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Cumulative1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T02:30:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cumulative1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CSHARP\\Cumulative2\\Cumulative2\\Cumulative1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cumulative1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T16:16:46.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
